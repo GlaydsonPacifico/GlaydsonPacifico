@@ -1,8 +1,8 @@
 --
 
-<h2 align="center">Helloooooo!</h1></br>
-<h1 align="center">Welcome to my profile 👋</h1></br>
-<h3 align="center">Frontend Developer</h3></br>
+<h2 align="center">Helloooooo!</h1>
+<h1 align="center">Welcome to my profile 👋</h1>
+<h3 align="center">Frontend Developer</h3>
 
 
  <div align="center">
@@ -15,7 +15,7 @@
 </br>
 
 <div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GlaydsonPacifico&layout=compact&theme=tokyonight)](https://github.com/glaydson.pacifico/github-readme-stats)
+![Glaydson Status](https://github-readme-stats.vercel.app/api?username=GlaydsonPacifico&theme=gotham&show_icons=true)
 </div></br>
 
 
@@ -49,8 +49,3 @@
 </br>
 </br>
 </br>
-
-
-<div align="center">
-![Glaydson GitHub stats](https://github-readme-stats.vercel.app/api?username=glaydsonpacifico&show_icons=true&theme=tokyonight)
-</div>
