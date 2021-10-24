@@ -1,5 +1,6 @@
 <h2 align="center">Helloooooo!</h1>
 <h1 align="center">Welcome to my profile 👋</h1>
+<p align="center">Enthusiast and student in Frontend Development, Backend.</p>
 <h3 align="center">Frontend Developer</h3>
 
 
