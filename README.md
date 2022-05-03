@@ -1,51 +1,45 @@
-<h2 align="center">Helloooooo!</h1>
-<h1 align="center">Welcome to my profile 👋</h1>
-<p align="center">Enthusiast and student in Frontend Development, Backend.</p>
+## Olá 👋! Eu sou o Glaydson 🧑🏽‍💻
+
+<span>Sou um entusiasta e apaixonado por tecnologia.</span>
 
 
- <div align="center">
-  <span>
-   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  </span>
- </div>
-</br>
-
-<div align="center">
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GlaydsonPacifico&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats" width="300"></a>
-
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=GlaydsonPacifico&show_icons=true&count_private=true&theme=dark" width="350"></a>
-
-</div></br>
-
-
-<div align="center">
-- 📫 How to reach me **glaydson.pacifico@gmail.com**  
+## Linguagens que mais utilizo 🚀
+ 
+<div>
+   
+![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=7159c1) ![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=7159c1) ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=7159c1) ![Node](https://img.shields.io/badge/-node-grey?style=for-the-badge&logo=node.js&logoColor=white&labelColor=7159c1)
+  
+</div>
+<div> 
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GlaydsonPacifico&layout=compact&theme=dark&show_icons=true&hide_border=true&title_color=7159c1&" alt="Glaydson Pacifico" />
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=GlaydsonPacifico&show_icons=true&count_private=true&theme=dark" width="350"</a>
 </div>
 
- <h3 align="center">Connect with me:</h3>
- <p align="left">
-  <li align="center">
-   <a class="url" href="https://www.linkedin.com/in/glaydson-pacifico-53199519a/" img> 
-    Linkedin
-   </a>
+## Contato - 📫
+ 
+<a href="mailto:glaydson.pacifico@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black" _blank/></a>
 
-  </li>
-  <li align="center">
-   <a class="url" href="https://api.whatsapp.com/send?phone=5581993450832/" img> 
-    Whatsapp
-   </a>
-  </li>
+<a href="https://www.instagram.com/glaydson_/" alt="Instagram">
+<img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=black"/></a>
+
+<a href="https://www.linkedin.com/in/glaydson-pacifico-53199519a/" alt="Linkedin">
+<img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=black" /></a>
+  
 
   
-<h3 align="center"> 🚀 Estudando Frameworks</h3></br>
-<div align="center">
- <span>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
- </span>
+## Estudando
+<div>
+
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+
 </div>
-</br>
-</br>
-</br>
+ 
+ ## Meus commits 
+
+
+
+
