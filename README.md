@@ -18,7 +18,7 @@
 ## Contato - 📫
  
 <a href="mailto:glaydson.pacifico@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black" _blank/></a>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black" /></a>
 
 <a href="https://www.instagram.com/glaydson_/" alt="Instagram">
 <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=black"/></a>
