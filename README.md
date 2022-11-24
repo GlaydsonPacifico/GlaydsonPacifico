@@ -18,6 +18,8 @@
 <img width="30" src="https://skills.thijs.gg/icons?i=mongodb" />
 <img width="30" src="https://skills.thijs.gg/icons?i=mysql" />
 <img width="30" src="https://skills.thijs.gg/icons?i=postgres" />
+<img width="30" src="https://skills.thijs.gg/icons?i=linux" />
+ 
 
 
  
