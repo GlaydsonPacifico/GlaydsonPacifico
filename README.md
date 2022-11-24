@@ -5,18 +5,21 @@
 ## Tecnologias
 <div> 
 
+<img width="30" src="https://skills.thijs.gg/icons?i=js" />
 <img width="30" src="https://skills.thijs.gg/icons?i=nodejs" />
 <img width="30" src="https://skills.thijs.gg/icons?i=java" />
-<img width="30" src="https://skills.thijs.gg/icons?i=css" />
-<img width="30" src="https://skills.thijs.gg/icons?i=docker" />
-<img width="30" src="https://skills.thijs.gg/icons?i=git" />
+<img width="30" src="https://skills.thijs.gg/icons?i=spring" />
+<img width="30" src="https://skills.thijs.gg/icons?i=react" />
 <img width="30" src="https://skills.thijs.gg/icons?i=html" />
+<img width="30" src="https://skills.thijs.gg/icons?i=css" />
+<img width="30" src="https://skills.thijs.gg/icons?i=git" />
+<img width="30" src="https://skills.thijs.gg/icons?i=docker" />
+<img width="30" src="https://skills.thijs.gg/icons?i=prisma" />
 <img width="30" src="https://skills.thijs.gg/icons?i=mongodb" />
 <img width="30" src="https://skills.thijs.gg/icons?i=mysql" />
 <img width="30" src="https://skills.thijs.gg/icons?i=postgres" />
-<img width="30" src="https://skills.thijs.gg/icons?i=prisma" />
-<img width="30" src="https://skills.thijs.gg/icons?i=react" />
-<img width="30" src="https://skills.thijs.gg/icons?i=js" />
+
+
  
  
 </div>
