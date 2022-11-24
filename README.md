@@ -19,9 +19,12 @@
 <img width="30" src="https://skills.thijs.gg/icons?i=mysql" />
 <img width="30" src="https://skills.thijs.gg/icons?i=postgres" />
 <img width="30" src="https://skills.thijs.gg/icons?i=linux" />
+  
  
-
-
+ <div> 
+  <a href="#"><img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GlaydsonPacifico&layout=compact&theme=dark&show_icons=true&hide_border=true&title_color=7159c1&" alt="Glaydson Pacifico" />
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=GlaydsonPacifico&show_icons=true&count_private=true&theme=dark" width="350"</a>
+</div>
  
  
 </div>
