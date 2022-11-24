@@ -3,15 +3,21 @@
 <span>Sou um entusiasta e apaixonado por tecnologia.</span>
 
 ## Tecnologias
-<div>
+<div> 
+
+<img width="30" src="https://skills.thijs.gg/icons?i=nodejs" />
+<img width="30" src="https://skills.thijs.gg/icons?i=java" />
+<img width="30" src="https://skills.thijs.gg/icons?i=css" />
+<img width="30" src="https://skills.thijs.gg/icons?i=docker" />
+<img width="30" src="https://skills.thijs.gg/icons?i=git" />
+<img width="30" src="https://skills.thijs.gg/icons?i=html" />
+<img width="30" src="https://skills.thijs.gg/icons?i=mongodb" />
+<img width="30" src="https://skills.thijs.gg/icons?i=mysql" />
+<img width="30" src="https://skills.thijs.gg/icons?i=postgres" />
+<img width="30" src="https://skills.thijs.gg/icons?i=prisma" />
+<img width="30" src="https://skills.thijs.gg/icons?i=react" />
+<img width="30" src="https://skills.thijs.gg/icons?i=js" />
  
-<img width="30" src="https://camo.githubusercontent.com/2cbbf5ca53964ce3051c6e93fbdd681459487365c5e0b9b7ab638587767506f9/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f737072696e672f737072696e672d6f726967696e616c2e737667" />
-<img width="30" src="https://camo.githubusercontent.com/5827f82f2c2d9c5bad33de64e073659d1a57032b31009b8127189be6876916d4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c696e75782f6c696e75782d6f726967696e616c2e737667" />
-<img width="30" src="https://camo.githubusercontent.com/20ffa1c9a31e2c991c8b52b0cb7be938de51db4b7a9299658fef28efb0cc845a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176612f6a6176612d6f726967696e616c2e737667" />
-<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
  
 </div>
 
