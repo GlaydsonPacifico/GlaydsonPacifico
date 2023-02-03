@@ -13,6 +13,7 @@
     
 <div> 
 <img width="30" src="https://skills.thijs.gg/icons?i=js" />
+<img width="30" src="https://skills.thijs.gg/icons?i=typescript" />
 <img width="30" src="https://skills.thijs.gg/icons?i=nodejs" />
 <img width="30" src="https://skills.thijs.gg/icons?i=java" />
 <img width="30" src="https://skills.thijs.gg/icons?i=spring" />
