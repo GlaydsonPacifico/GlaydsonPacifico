@@ -40,7 +40,4 @@
 <a href="https://www.linkedin.com/in/glaydson-pacifico-53199519a/" alt="Linkedin">
 <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>  
 </div>
-    
- ## Meus commits 
 
-   ![Snake animation](https://github.com/GlaydsonPacifico/glaydsonpacifico/blob/output/github-contribution-grid-snake.svg)
