@@ -1,4 +1,4 @@
-## Olá 👋! Eu sou o Glaydson 🧑🏽‍💻
+## Olá 👋! Me chamo Glaydson 🧑🏽‍💻
 
 <span>Sou um entusiasta e apaixonado por tecnologia.</span>
 
